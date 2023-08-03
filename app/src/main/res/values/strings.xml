@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="action_delete">Delete All</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">TODO</string>
+    <string name="second_fragment_label">Edit Task</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add_task">Add task</string>
+    <string name="title">TODO</string>
+
+    <string name="set_reminder">Set Reminder</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+
+    <string name="incorrect_time">Error! You have selected an incorrect time!</string>
+    <string name="error_text">Please, input some text!</string>
+    <string name="error_spaces">Error! The entered text consists only of spaces!</string>
+    <string name="no_data">No Data</string>
+</resources>
